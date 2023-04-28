@@ -1,0 +1,10 @@
+body {
+    display: block;
+    text-align: center;
+
+}
+div {
+    background-color: aqua;
+    color: white;
+    font-size: 30px;
+}
